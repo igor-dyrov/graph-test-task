@@ -1,14 +1,3 @@
-# D3-Django integration
-
-Sample project to help who want to integrate D3 getting data from Django.
-
-Companion repository of the StackOverflow answer: [Passing data from Django to D3](http://stackoverflow.com/a/26455798/585592).
-
-Questions? Please let me know!
-
-Best regards!
-
-
 ## Quickstart
 
 Clone this repository.
